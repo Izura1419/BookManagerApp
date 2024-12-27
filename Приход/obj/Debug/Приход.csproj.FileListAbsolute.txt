@@ -1,0 +1,78 @@
+C:\Users\Умер132\source\repos\Приход\Приход\bin\Debug\Приход.exe.config
+C:\Users\Умер132\source\repos\Приход\Приход\bin\Debug\Приход.exe
+C:\Users\Умер132\source\repos\Приход\Приход\bin\Debug\Приход.pdb
+C:\Users\Умер132\source\repos\Приход\Приход\obj\Debug\Приход.csproj.AssemblyReference.cache
+C:\Users\Умер132\source\repos\Приход\Приход\obj\Debug\Приход.Properties.Resources.resources
+C:\Users\Умер132\source\repos\Приход\Приход\obj\Debug\Приход.csproj.GenerateResource.cache
+C:\Users\Умер132\source\repos\Приход\Приход\obj\Debug\Приход.csproj.CoreCompileInputs.cache
+C:\Users\Умер132\source\repos\Приход\Приход\obj\Debug\Приход.exe
+C:\Users\Умер132\source\repos\Приход\Приход\obj\Debug\Приход.pdb
+C:\Users\Умер132\source\repos\Приход\Приход\bin\Debug\MaterialSkin.dll
+C:\Users\Умер132\source\repos\Приход\Приход\obj\Debug\Приход.csproj.Up2Date
+C:\Users\Умер132\source\repos\Приход\Приход\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Умер132\source\repos\Приход\Приход\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\bin\Debug\Приход.exe.config
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\bin\Debug\Приход.exe
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\bin\Debug\Приход.pdb
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\bin\Debug\MaterialSkin.dll
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.csproj.AssemblyReference.cache
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.Properties.Resources.resources
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.csproj.GenerateResource.cache
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.csproj.CoreCompileInputs.cache
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.csproj.Up2Date
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.exe
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.pdb
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.AdminMainForm.resources
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.MainForm.resources
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.LoginForm.resources
+C:\Users\Егор раб Адама\Downloads\Приход\Приход\Приход\obj\Debug\Приход.RegisterForm.resources
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\Приход.exe.config
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\Приход.exe
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\Приход.pdb
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\MaterialSkin.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.MainForm.resources
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.LoginForm.resources
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.RegisterForm.resources
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.exe
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.pdb
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\obj\Debug\Приход.AdminPanelForm.resources
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\ClosedXML.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\ClosedXML.Parser.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\itextsharp.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\RBush.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\SixLabors.Fonts.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\ClosedXML.pdb
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\ClosedXML.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\ClosedXML.Parser.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\itextsharp.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\RBush.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\SixLabors.Fonts.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Рабочий стол\-\Приход\Приход\bin\Debug\QRCoder.dll
